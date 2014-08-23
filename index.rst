@@ -3,20 +3,28 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to http2's documentation!
-=================================
+http2
+=====
+
+Background, the protocol, the implementations and the future.
+
+http://daniel.haxx.se/http2/
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   src/background
+   src/httptoday
+   src/overcominglatency
+   src/updatinghttp
+   src/http2concepts
+   src/http2protocol
+   src/extensions
+   src/http2world
+   src/http2firefox
+   src/http2curl
+   src/afterhttp2
+   src/furtherreading
+   src/thanks
