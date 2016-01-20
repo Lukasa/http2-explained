@@ -6,25 +6,7 @@
 http2
 =====
 
-Background, the protocol, the implementations and the future.
+This web-based document is now deprecated in favour of
+`Daniel Stenberg's original`_, which is now entirely web-based and searchable.
 
-http://daniel.haxx.se/http2/
-
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-
-   src/background
-   src/httptoday
-   src/overcominglatency
-   src/updatinghttp
-   src/http2concepts
-   src/http2protocol
-   src/extensions
-   src/http2world
-   src/http2firefox
-   src/http2curl
-   src/afterhttp2
-   src/furtherreading
-   src/thanks
+.. _Daniel Stenberg's Original: http://http2-explained.haxx.se/content/en/index.html
